@@ -1,6 +1,6 @@
 # Golang Practice on Data Structure
 
-这是一个使用 Go 语言实现的数据结构练习项目，包含多种常见的数据结构泛型实现及部分测试代码。`interface{}` 实现请查看 [go1.17]() 分支。
+这是一个使用 Go 语言实现的数据结构练习项目，包含多种常见的数据结构泛型实现及部分测试代码。`interface{}` 实现请查看 [go1.17](https://github.com/dreamy-xay/golang-data-structure/tree/go1.17) 分支。
 
 ## 目录结构
 
